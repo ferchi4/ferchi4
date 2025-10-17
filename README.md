@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ferchi4/ferchi4/refs/heads/main/portada%20linkedin.png" alt="Banner Fernando Escobedo - Data Analyst, BI, CX, MKT, B2B">
+  <img src="https://raw.githubusercontent.com/ferchi4/ferchi4/refs/heads/main/portada.png" alt="Banner Fernando Escobedo - Data Analyst, BI, CX, MKT, B2B">
 </p>
 
 <p align="center">
